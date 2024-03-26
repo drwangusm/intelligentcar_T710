@@ -1,0 +1,92 @@
+[
+{
+  "directory": "/root/workspace/intelligentcar_T710_c++_v2/build",
+  "command": "/usr/bin/c++   -I/root/workspace/intelligentcar_T710_c++_v2/src/include -I/root/workspace/intelligentcar_T710_c++_v2/src/config -I/root/workspace/intelligentcar_T710_c++_v2/src/demo -I/root/workspace/intelligentcar_T710_c++_v2/src/driver -I/root/workspace/intelligentcar_T710_c++_v2/src/lib -I/root/workspace/intelligentcar_T710_c++_v2/src/src -I/root/workspace/intelligentcar_T710_c++_v2/src/tool -I/usr/include/glib-2.0 -I/usr/lib/aarch64-linux-gnu/glib-2.0/include -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/include/libserial -I/usr/local/include/ppnc -I/usr/local/include/onnx  -O3 -Wall -mcpu=native -flto -pthread   -std=gnu++1z -o CMakeFiles/track_recognition.dir/demo/track_recognition.cpp.o -c /root/workspace/intelligentcar_T710_c++_v2/src/demo/track_recognition.cpp",
+  "file": "/root/workspace/intelligentcar_T710_c++_v2/src/demo/track_recognition.cpp"
+},
+{
+  "directory": "/root/workspace/intelligentcar_T710_c++_v2/build",
+  "command": "/usr/bin/c++   -I/root/workspace/intelligentcar_T710_c++_v2/src/include -I/root/workspace/intelligentcar_T710_c++_v2/src/config -I/root/workspace/intelligentcar_T710_c++_v2/src/demo -I/root/workspace/intelligentcar_T710_c++_v2/src/driver -I/root/workspace/intelligentcar_T710_c++_v2/src/lib -I/root/workspace/intelligentcar_T710_c++_v2/src/src -I/root/workspace/intelligentcar_T710_c++_v2/src/tool -I/usr/include/glib-2.0 -I/usr/lib/aarch64-linux-gnu/glib-2.0/include -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/include/libserial -I/usr/local/include/ppnc -I/usr/local/include/onnx  -O3 -Wall -mcpu=native -flto -pthread   -std=gnu++1z -o CMakeFiles/image_collection.dir/demo/image_collection.cpp.o -c /root/workspace/intelligentcar_T710_c++_v2/src/demo/image_collection.cpp",
+  "file": "/root/workspace/intelligentcar_T710_c++_v2/src/demo/image_collection.cpp"
+},
+{
+  "directory": "/root/workspace/intelligentcar_T710_c++_v2/build",
+  "command": "/usr/bin/c++   -I/root/workspace/intelligentcar_T710_c++_v2/src/include -I/root/workspace/intelligentcar_T710_c++_v2/src/config -I/root/workspace/intelligentcar_T710_c++_v2/src/demo -I/root/workspace/intelligentcar_T710_c++_v2/src/driver -I/root/workspace/intelligentcar_T710_c++_v2/src/lib -I/root/workspace/intelligentcar_T710_c++_v2/src/src -I/root/workspace/intelligentcar_T710_c++_v2/src/tool -I/usr/include/glib-2.0 -I/usr/lib/aarch64-linux-gnu/glib-2.0/include -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/include/libserial -I/usr/local/include/ppnc -I/usr/local/include/onnx  -O3 -Wall -mcpu=native -flto -pthread   -std=gnu++1z -o CMakeFiles/freezone_recognition.dir/demo/freezone_recognition.cpp.o -c /root/workspace/intelligentcar_T710_c++_v2/src/demo/freezone_recognition.cpp",
+  "file": "/root/workspace/intelligentcar_T710_c++_v2/src/demo/freezone_recognition.cpp"
+},
+{
+  "directory": "/root/workspace/intelligentcar_T710_c++_v2/build",
+  "command": "/usr/bin/c++   -I/root/workspace/intelligentcar_T710_c++_v2/src/include -I/root/workspace/intelligentcar_T710_c++_v2/src/config -I/root/workspace/intelligentcar_T710_c++_v2/src/demo -I/root/workspace/intelligentcar_T710_c++_v2/src/driver -I/root/workspace/intelligentcar_T710_c++_v2/src/lib -I/root/workspace/intelligentcar_T710_c++_v2/src/src -I/root/workspace/intelligentcar_T710_c++_v2/src/tool -I/usr/include/glib-2.0 -I/usr/lib/aarch64-linux-gnu/glib-2.0/include -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/include/libserial -I/usr/local/include/ppnc -I/usr/local/include/onnx  -O3 -Wall -mcpu=native -flto -pthread   -std=gnu++1z -o CMakeFiles/image_preprocess.dir/demo/image_preprocess.cpp.o -c /root/workspace/intelligentcar_T710_c++_v2/src/demo/image_preprocess.cpp",
+  "file": "/root/workspace/intelligentcar_T710_c++_v2/src/demo/image_preprocess.cpp"
+},
+{
+  "directory": "/root/workspace/intelligentcar_T710_c++_v2/build",
+  "command": "/usr/bin/c++   -I/root/workspace/intelligentcar_T710_c++_v2/src/include -I/root/workspace/intelligentcar_T710_c++_v2/src/config -I/root/workspace/intelligentcar_T710_c++_v2/src/demo -I/root/workspace/intelligentcar_T710_c++_v2/src/driver -I/root/workspace/intelligentcar_T710_c++_v2/src/lib -I/root/workspace/intelligentcar_T710_c++_v2/src/src -I/root/workspace/intelligentcar_T710_c++_v2/src/tool -I/usr/include/glib-2.0 -I/usr/lib/aarch64-linux-gnu/glib-2.0/include -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/include/libserial -I/usr/local/include/ppnc -I/usr/local/include/onnx  -O3 -Wall -mcpu=native -flto -pthread   -std=gnu++1z -o CMakeFiles/image2video.dir/demo/image2video.cpp.o -c /root/workspace/intelligentcar_T710_c++_v2/src/demo/image2video.cpp",
+  "file": "/root/workspace/intelligentcar_T710_c++_v2/src/demo/image2video.cpp"
+},
+{
+  "directory": "/root/workspace/intelligentcar_T710_c++_v2/build",
+  "command": "/usr/bin/c++   -I/root/workspace/intelligentcar_T710_c++_v2/src/include -I/root/workspace/intelligentcar_T710_c++_v2/src/config -I/root/workspace/intelligentcar_T710_c++_v2/src/demo -I/root/workspace/intelligentcar_T710_c++_v2/src/driver -I/root/workspace/intelligentcar_T710_c++_v2/src/lib -I/root/workspace/intelligentcar_T710_c++_v2/src/src -I/root/workspace/intelligentcar_T710_c++_v2/src/tool -I/usr/include/glib-2.0 -I/usr/lib/aarch64-linux-gnu/glib-2.0/include -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/include/libserial -I/usr/local/include/ppnc -I/usr/local/include/onnx  -O3 -Wall -mcpu=native -flto -pthread   -std=gnu++1z -o CMakeFiles/cross_recognition.dir/demo/cross_recognition.cpp.o -c /root/workspace/intelligentcar_T710_c++_v2/src/demo/cross_recognition.cpp",
+  "file": "/root/workspace/intelligentcar_T710_c++_v2/src/demo/cross_recognition.cpp"
+},
+{
+  "directory": "/root/workspace/intelligentcar_T710_c++_v2/build",
+  "command": "/usr/bin/c++   -I/root/workspace/intelligentcar_T710_c++_v2/src/include -I/root/workspace/intelligentcar_T710_c++_v2/src/config -I/root/workspace/intelligentcar_T710_c++_v2/src/demo -I/root/workspace/intelligentcar_T710_c++_v2/src/driver -I/root/workspace/intelligentcar_T710_c++_v2/src/lib -I/root/workspace/intelligentcar_T710_c++_v2/src/src -I/root/workspace/intelligentcar_T710_c++_v2/src/tool -I/usr/include/glib-2.0 -I/usr/lib/aarch64-linux-gnu/glib-2.0/include -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/include/libserial -I/usr/local/include/ppnc -I/usr/local/include/onnx  -O3 -Wall -mcpu=native -flto -pthread   -std=gnu++1z -o CMakeFiles/camera_calibrate.dir/demo/camera_calibrate.cpp.o -c /root/workspace/intelligentcar_T710_c++_v2/src/demo/camera_calibrate.cpp",
+  "file": "/root/workspace/intelligentcar_T710_c++_v2/src/demo/camera_calibrate.cpp"
+},
+{
+  "directory": "/root/workspace/intelligentcar_T710_c++_v2/build",
+  "command": "/usr/bin/c++   -I/root/workspace/intelligentcar_T710_c++_v2/src/include -I/root/workspace/intelligentcar_T710_c++_v2/src/config -I/root/workspace/intelligentcar_T710_c++_v2/src/demo -I/root/workspace/intelligentcar_T710_c++_v2/src/driver -I/root/workspace/intelligentcar_T710_c++_v2/src/lib -I/root/workspace/intelligentcar_T710_c++_v2/src/src -I/root/workspace/intelligentcar_T710_c++_v2/src/tool -I/usr/include/glib-2.0 -I/usr/lib/aarch64-linux-gnu/glib-2.0/include -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/include/libserial -I/usr/local/include/ppnc -I/usr/local/include/onnx  -O3 -Wall -mcpu=native -flto -pthread   -std=gnu++1z -o CMakeFiles/camera_display.dir/demo/camera_display.cpp.o -c /root/workspace/intelligentcar_T710_c++_v2/src/demo/camera_display.cpp",
+  "file": "/root/workspace/intelligentcar_T710_c++_v2/src/demo/camera_display.cpp"
+},
+{
+  "directory": "/root/workspace/intelligentcar_T710_c++_v2/build",
+  "command": "/usr/bin/c++   -I/root/workspace/intelligentcar_T710_c++_v2/src/include -I/root/workspace/intelligentcar_T710_c++_v2/src/config -I/root/workspace/intelligentcar_T710_c++_v2/src/demo -I/root/workspace/intelligentcar_T710_c++_v2/src/driver -I/root/workspace/intelligentcar_T710_c++_v2/src/lib -I/root/workspace/intelligentcar_T710_c++_v2/src/src -I/root/workspace/intelligentcar_T710_c++_v2/src/tool -I/usr/include/glib-2.0 -I/usr/lib/aarch64-linux-gnu/glib-2.0/include -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/include/libserial -I/usr/local/include/ppnc -I/usr/local/include/onnx  -O3 -Wall -mcpu=native -flto -pthread   -std=gnu++1z -o CMakeFiles/ring_recognition.dir/demo/ring_recognition.cpp.o -c /root/workspace/intelligentcar_T710_c++_v2/src/demo/ring_recognition.cpp",
+  "file": "/root/workspace/intelligentcar_T710_c++_v2/src/demo/ring_recognition.cpp"
+},
+{
+  "directory": "/root/workspace/intelligentcar_T710_c++_v2/build",
+  "command": "/usr/bin/c++   -I/root/workspace/intelligentcar_T710_c++_v2/src/include -I/root/workspace/intelligentcar_T710_c++_v2/src/config -I/root/workspace/intelligentcar_T710_c++_v2/src/demo -I/root/workspace/intelligentcar_T710_c++_v2/src/driver -I/root/workspace/intelligentcar_T710_c++_v2/src/lib -I/root/workspace/intelligentcar_T710_c++_v2/src/src -I/root/workspace/intelligentcar_T710_c++_v2/src/tool -I/usr/include/glib-2.0 -I/usr/lib/aarch64-linux-gnu/glib-2.0/include -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/include/libserial -I/usr/local/include/ppnc -I/usr/local/include/onnx  -O3 -Wall -mcpu=native -flto -pthread   -std=gnu++1z -o CMakeFiles/granary_detection.dir/demo/granary_detection.cpp.o -c /root/workspace/intelligentcar_T710_c++_v2/src/demo/granary_detection.cpp",
+  "file": "/root/workspace/intelligentcar_T710_c++_v2/src/demo/granary_detection.cpp"
+},
+{
+  "directory": "/root/workspace/intelligentcar_T710_c++_v2/build",
+  "command": "/usr/bin/c++   -I/root/workspace/intelligentcar_T710_c++_v2/src/include -I/root/workspace/intelligentcar_T710_c++_v2/src/config -I/root/workspace/intelligentcar_T710_c++_v2/src/demo -I/root/workspace/intelligentcar_T710_c++_v2/src/driver -I/root/workspace/intelligentcar_T710_c++_v2/src/lib -I/root/workspace/intelligentcar_T710_c++_v2/src/src -I/root/workspace/intelligentcar_T710_c++_v2/src/tool -I/usr/include/glib-2.0 -I/usr/lib/aarch64-linux-gnu/glib-2.0/include -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/include/libserial -I/usr/local/include/ppnc -I/usr/local/include/onnx  -O3 -Wall -mcpu=native -flto -pthread   -std=gnu++1z -o CMakeFiles/garage_recognition.dir/demo/garage_recognition.cpp.o -c /root/workspace/intelligentcar_T710_c++_v2/src/demo/garage_recognition.cpp",
+  "file": "/root/workspace/intelligentcar_T710_c++_v2/src/demo/garage_recognition.cpp"
+},
+{
+  "directory": "/root/workspace/intelligentcar_T710_c++_v2/build",
+  "command": "/usr/bin/c++   -I/root/workspace/intelligentcar_T710_c++_v2/src/include -I/root/workspace/intelligentcar_T710_c++_v2/src/config -I/root/workspace/intelligentcar_T710_c++_v2/src/demo -I/root/workspace/intelligentcar_T710_c++_v2/src/driver -I/root/workspace/intelligentcar_T710_c++_v2/src/lib -I/root/workspace/intelligentcar_T710_c++_v2/src/src -I/root/workspace/intelligentcar_T710_c++_v2/src/tool -I/usr/include/glib-2.0 -I/usr/lib/aarch64-linux-gnu/glib-2.0/include -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/include/libserial -I/usr/local/include/ppnc -I/usr/local/include/onnx  -O3 -Wall -mcpu=native -flto -pthread   -std=gnu++1z -o CMakeFiles/main.dir/src/main.cpp.o -c /root/workspace/intelligentcar_T710_c++_v2/src/src/main.cpp",
+  "file": "/root/workspace/intelligentcar_T710_c++_v2/src/src/main.cpp"
+},
+{
+  "directory": "/root/workspace/intelligentcar_T710_c++_v2/build",
+  "command": "/usr/bin/c++   -I/root/workspace/intelligentcar_T710_c++_v2/src/include -I/root/workspace/intelligentcar_T710_c++_v2/src/config -I/root/workspace/intelligentcar_T710_c++_v2/src/demo -I/root/workspace/intelligentcar_T710_c++_v2/src/driver -I/root/workspace/intelligentcar_T710_c++_v2/src/lib -I/root/workspace/intelligentcar_T710_c++_v2/src/src -I/root/workspace/intelligentcar_T710_c++_v2/src/tool -I/usr/include/glib-2.0 -I/usr/lib/aarch64-linux-gnu/glib-2.0/include -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/include/libserial -I/usr/local/include/ppnc -I/usr/local/include/onnx  -O3 -Wall -mcpu=native -flto -pthread   -std=gnu++1z -o CMakeFiles/perspective_mapping.dir/demo/perspective_mapping.cpp.o -c /root/workspace/intelligentcar_T710_c++_v2/src/demo/perspective_mapping.cpp",
+  "file": "/root/workspace/intelligentcar_T710_c++_v2/src/demo/perspective_mapping.cpp"
+},
+{
+  "directory": "/root/workspace/intelligentcar_T710_c++_v2/build",
+  "command": "/usr/bin/c++   -I/root/workspace/intelligentcar_T710_c++_v2/src/include -I/root/workspace/intelligentcar_T710_c++_v2/src/config -I/root/workspace/intelligentcar_T710_c++_v2/src/demo -I/root/workspace/intelligentcar_T710_c++_v2/src/driver -I/root/workspace/intelligentcar_T710_c++_v2/src/lib -I/root/workspace/intelligentcar_T710_c++_v2/src/src -I/root/workspace/intelligentcar_T710_c++_v2/src/tool -I/usr/include/glib-2.0 -I/usr/lib/aarch64-linux-gnu/glib-2.0/include -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/include/libserial -I/usr/local/include/ppnc -I/usr/local/include/onnx  -O3 -Wall -mcpu=native -flto -pthread   -std=gnu++1z -o CMakeFiles/farmland_detection.dir/demo/farmland_detection.cpp.o -c /root/workspace/intelligentcar_T710_c++_v2/src/demo/farmland_detection.cpp",
+  "file": "/root/workspace/intelligentcar_T710_c++_v2/src/demo/farmland_detection.cpp"
+},
+{
+  "directory": "/root/workspace/intelligentcar_T710_c++_v2/build",
+  "command": "/usr/bin/c++   -I/root/workspace/intelligentcar_T710_c++_v2/src/include -I/root/workspace/intelligentcar_T710_c++_v2/src/config -I/root/workspace/intelligentcar_T710_c++_v2/src/demo -I/root/workspace/intelligentcar_T710_c++_v2/src/driver -I/root/workspace/intelligentcar_T710_c++_v2/src/lib -I/root/workspace/intelligentcar_T710_c++_v2/src/src -I/root/workspace/intelligentcar_T710_c++_v2/src/tool -I/usr/include/glib-2.0 -I/usr/lib/aarch64-linux-gnu/glib-2.0/include -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/include/libserial -I/usr/local/include/ppnc -I/usr/local/include/onnx  -O3 -Wall -mcpu=native -flto -pthread   -std=gnu++1z -o CMakeFiles/motion_controller.dir/demo/motion_controller.cpp.o -c /root/workspace/intelligentcar_T710_c++_v2/src/demo/motion_controller.cpp",
+  "file": "/root/workspace/intelligentcar_T710_c++_v2/src/demo/motion_controller.cpp"
+},
+{
+  "directory": "/root/workspace/intelligentcar_T710_c++_v2/build",
+  "command": "/usr/bin/c++   -I/root/workspace/intelligentcar_T710_c++_v2/src/include -I/root/workspace/intelligentcar_T710_c++_v2/src/config -I/root/workspace/intelligentcar_T710_c++_v2/src/demo -I/root/workspace/intelligentcar_T710_c++_v2/src/driver -I/root/workspace/intelligentcar_T710_c++_v2/src/lib -I/root/workspace/intelligentcar_T710_c++_v2/src/src -I/root/workspace/intelligentcar_T710_c++_v2/src/tool -I/usr/include/glib-2.0 -I/usr/lib/aarch64-linux-gnu/glib-2.0/include -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/include/libserial -I/usr/local/include/ppnc -I/usr/local/include/onnx  -O3 -Wall -mcpu=native -flto -pthread   -std=gnu++1z -o CMakeFiles/depot_detection.dir/demo/depot_detection.cpp.o -c /root/workspace/intelligentcar_T710_c++_v2/src/demo/depot_detection.cpp",
+  "file": "/root/workspace/intelligentcar_T710_c++_v2/src/demo/depot_detection.cpp"
+},
+{
+  "directory": "/root/workspace/intelligentcar_T710_c++_v2/build",
+  "command": "/usr/bin/c++   -I/root/workspace/intelligentcar_T710_c++_v2/src/include -I/root/workspace/intelligentcar_T710_c++_v2/src/config -I/root/workspace/intelligentcar_T710_c++_v2/src/demo -I/root/workspace/intelligentcar_T710_c++_v2/src/driver -I/root/workspace/intelligentcar_T710_c++_v2/src/lib -I/root/workspace/intelligentcar_T710_c++_v2/src/src -I/root/workspace/intelligentcar_T710_c++_v2/src/tool -I/usr/include/glib-2.0 -I/usr/lib/aarch64-linux-gnu/glib-2.0/include -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/include/libserial -I/usr/local/include/ppnc -I/usr/local/include/onnx  -O3 -Wall -mcpu=native -flto -pthread   -std=gnu++1z -o CMakeFiles/slowzone_detection.dir/demo/slowzone_detection.cpp.o -c /root/workspace/intelligentcar_T710_c++_v2/src/demo/slowzone_detection.cpp",
+  "file": "/root/workspace/intelligentcar_T710_c++_v2/src/demo/slowzone_detection.cpp"
+},
+{
+  "directory": "/root/workspace/intelligentcar_T710_c++_v2/build",
+  "command": "/usr/bin/c++   -I/root/workspace/intelligentcar_T710_c++_v2/src/include -I/root/workspace/intelligentcar_T710_c++_v2/src/config -I/root/workspace/intelligentcar_T710_c++_v2/src/demo -I/root/workspace/intelligentcar_T710_c++_v2/src/driver -I/root/workspace/intelligentcar_T710_c++_v2/src/lib -I/root/workspace/intelligentcar_T710_c++_v2/src/src -I/root/workspace/intelligentcar_T710_c++_v2/src/tool -I/usr/include/glib-2.0 -I/usr/lib/aarch64-linux-gnu/glib-2.0/include -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/include/libserial -I/usr/local/include/ppnc -I/usr/local/include/onnx  -O3 -Wall -mcpu=native -flto -pthread   -std=gnu++1z -o CMakeFiles/bridge_detection.dir/demo/bridge_detection.cpp.o -c /root/workspace/intelligentcar_T710_c++_v2/src/demo/bridge_detection.cpp",
+  "file": "/root/workspace/intelligentcar_T710_c++_v2/src/demo/bridge_detection.cpp"
+}
+]
